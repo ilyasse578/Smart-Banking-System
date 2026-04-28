@@ -256,5 +256,11 @@
       <Name>BankBusinessLayer</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloseEye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenEye.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

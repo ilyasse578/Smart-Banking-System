@@ -61,5 +61,19 @@ namespace Bank_C_
         {
             _EnableLoginButton();
         }
+
+        private void btnHideShowPassword_Click(object sender, EventArgs e)
+        {
+            if (tbPassword.UseSystemPasswordChar)
+            {
+                tbPassword.UseSystemPasswordChar = false;
+                btnHideShowPassword.Image = Properties.Resources.OpenEye;
+            }
+            else
+            {
+                tbPassword.UseSystemPasswordChar = true;
+                btnHideShowPassword.Image = Properties.Resources.CloseEye;
+            }
+        }
     }
 }
