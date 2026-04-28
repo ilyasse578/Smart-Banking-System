@@ -84,8 +84,6 @@ The system is built on a relational database with well-structured tables:
 <img width="826" height="615" alt="image" src="https://github.com/user-attachments/assets/247a57c7-088b-4498-a03e-ebaadd937238" />
 <img width="1096" height="618" alt="image" src="https://github.com/user-attachments/assets/42ef27ca-9cb1-4129-97dc-d524ee80d53b" />
 <img width="828" height="613" alt="image" src="https://github.com/user-attachments/assets/c11092ed-9f48-4ed7-a4ae-41e08dc1cb38" />
-<img width="1096" height="618" alt="image" src="https://github.com/user-attachments/assets/3badb2b2-be1c-4678-94d3-4b12b8b719af" />
-
 
 ---
 
