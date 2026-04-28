@@ -79,15 +79,32 @@ The system is built on a relational database with well-structured tables:
 ## 📸 Screenshots
 <img width="1097" height="613" alt="image" src="https://github.com/user-attachments/assets/55c1cc0f-e70b-4b87-92f7-40c85454be6d" />
 
+---
+
+
 <img width="825" height="614" alt="image" src="https://github.com/user-attachments/assets/9b308fa0-b9ee-48d1-8f75-31e12137a4b4" />
+
+---
+
 
 <img width="812" height="609" alt="image" src="https://github.com/user-attachments/assets/e12f1baf-0935-444b-bf10-8830f1173676" />
 
+---
+
+
 <img width="1096" height="624" alt="image" src="https://github.com/user-attachments/assets/05d0b8dd-aa71-4be3-9af1-699245ce0459" />
+
+---
+
 
 <img width="826" height="615" alt="image" src="https://github.com/user-attachments/assets/247a57c7-088b-4498-a03e-ebaadd937238" />
 
+---
+
 <img width="1096" height="618" alt="image" src="https://github.com/user-attachments/assets/42ef27ca-9cb1-4129-97dc-d524ee80d53b" />
+
+---
+
 
 <img width="828" height="613" alt="image" src="https://github.com/user-attachments/assets/c11092ed-9f48-4ed7-a4ae-41e08dc1cb38" />
 
